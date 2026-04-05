@@ -1,4 +1,4 @@
-# Hey, I'm Das 👋
+# Hey, I'm Bhabani Sankar Das 👋
 
 **Lead Engineer — Embedded Software · Security · Release Engineering**
 🎓 MEng in Networking & Services (4.12/5.0)
