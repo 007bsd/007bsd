@@ -28,7 +28,7 @@ Focused on building and shipping embedded software — developing in C, running 
 
 ### 📜 Certifications
 
-ISTQB Foundation & Agile · PSM I · Palo Alto Networks Security · Google IT Automation with Python · Oracle SQL · 20+ professional certifications
+ISTQB Foundation & Agile • PSM I • Palo Alto Networks Security • Google IT Automation with Python • Oracle SQL • HP Loadrunner • 20+ professional certifications
 
 ---
 
