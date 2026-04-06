@@ -1,6 +1,6 @@
 # Hey, I'm Bhabani Sankar Das 👋
 
-**Lead Engineer — Embedded Software · Security · Release Engineering**
+**Lead Engineer: Embedded Software · Security · Release Engineering**
 🎓 MEng in Networking & Services (4.12/5.0)
 
 > *Thesis: "Securing the Embedded Systems — Practical Assessment and Integration of Fuzz Testing Tools"*
