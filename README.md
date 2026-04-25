@@ -6,6 +6,10 @@
 > *Thesis: "Securing the Embedded Systems — Practical Assessment and Integration of Fuzz Testing Tools"*
 > AFL++ · Libfuzzer · AFL-QEMU · AFL-Unicorn
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhabanisankardas)
+[![Fuzzing Lab](https://img.shields.io/badge/Fuzzing_Lab-Trophy_Case-gold?style=flat&logo=github&logoColor=white)](https://github.com/007bsd/fuzzing-lab/blob/main/trophy-case/README.md)
+![Profile Views](https://komarev.com/ghpvc/?username=007bsd&color=blue&style=flat)
+
 ---
 
 Focused on building and shipping embedded software — developing in C, running QEMU emulation environments, working with FPGA platforms, and owning release engineering end to end. Designing pytest-based test frameworks for hardware targets, managing CI/CD pipelines with Jenkins, and building real-time monitoring systems with Grafana, InfluxDB, and OpenSearch.
@@ -40,5 +44,3 @@ ISTQB Foundation & Agile • PSM I • Palo Alto Networks Security • Google IT
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhabanisankardas)
-![Profile Views](https://komarev.com/ghpvc/?username=007bsd&color=blue&style=flat)
