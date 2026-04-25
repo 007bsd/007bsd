@@ -18,18 +18,18 @@ I build and ship embedded software, work with QEMU emulation and FPGA platforms,
 
 **Fuzz Testing:** AFL++ · Libfuzzer · AFL-QEMU · AFL-Unicorn · Hypothesis
 
-**Test & Quality:** pytest · Python · Bash
+**Test & Quality:** pytest · Python · robotframework · Jmeter · Bash
 
-**CI/CD & Infra:** Jenkins · Docker · Git
+**CI/CD & Infra:** Jenkins · Docker · Git . Gitworkflow
 
 **Monitoring:** Grafana · InfluxDB · Telegraf · ELK · OpenSearch
-
-### 📜 Certifications
-
-ISTQB Foundation & Agile • PSM I • Palo Alto Networks Security • Google IT Automation with Python • Oracle SQL • HP Loadrunner • 20+ professional certifications
 
 ### 🔭 Currently Exploring
 
 - Bug hunting through fuzzing open source projects
 - AI-assisted development tooling and workflows
 - Expanding fuzz testing practices for embedded targets
+
+### 📜 Certifications
+
+ISTQB Foundation & Agile • PSM I • Palo Alto Networks Security • Google IT Automation with Python • Oracle SQL • HP Loadrunner • 20+ professional certifications
