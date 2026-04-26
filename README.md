@@ -3,7 +3,7 @@
 **Lead Engineer: Embedded Software · Security · Release Engineering**
 🎓 MEng in Networking & Services (4.12/5.0)
 
-> *Thesis: "Securing the Embedded Systems: Practical Assessment and Integration of Fuzz Testing Tools"\n*
+> *Thesis: "Securing the Embedded Systems: Practical Assessment and Integration of Fuzz Testing Tools"*
 > AFL++ · Libfuzzer · AFL-QEMU · AFL-Unicorn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhabanisankardas)
