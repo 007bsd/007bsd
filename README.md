@@ -16,9 +16,9 @@ I build and ship embedded software, work with QEMU emulation and FPGA platforms,
 
 **Embedded & Systems:** C · QEMU · FPGA · Cryptographic Security
 
-**Fuzz Testing:** AFL++ · Libfuzzer · AFL-QEMU · AFL-Unicorn · Hypothesis
+**Fuzz Testing:** AFL++ · Libfuzzer · AFL-QEMU · AFL-Unicorn
 
-**Test & Quality:** pytest · Python · robotframework · Jmeter · Bash
+**Test & Quality:** pytest · Python · robotframework · Playwright · Jmeter · Bash
 
 **CI/CD & Infra:** Jenkins · Docker · Git . Gitworkflow
 
