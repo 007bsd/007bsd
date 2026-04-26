@@ -4,7 +4,7 @@
 🎓 MEng in Networking & Services (4.12/5.0)
 
 > *Thesis: "Securing the Embedded Systems: Practical Assessment and Integration of Fuzz Testing Tools"*
-> AFL++ · Libfuzzer · AFL-QEMU · AFL-Unicorn · Atheris · Hypothesis
+> AFL++ · Libfuzzer · AFL-QEMU · AFL-Unicorn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhabanisankardas)
 [![Fuzzing Lab](https://img.shields.io/badge/Fuzzing_Lab-Trophy_Case-gold?style=flat&logo=github&logoColor=white)](https://github.com/007bsd/fuzzing-lab/blob/main/trophy-case/README.md)
