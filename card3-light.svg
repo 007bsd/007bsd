@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="374" viewBox="0 0 880 374" role="img" aria-label="Bhabani Sankar Das (007bsd). Most credited OpenSSL vulnerability reporter of 2026. Papers: ePrint 2026/1682 and 2026/2239. ML-KEM test vectors merged into Wycheproof. Research covered by PostQuantum.com. Cited in the Amoeba break, China's next-generation cryptography competition. CVEs, papers and news: 007bsd.com">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="374" viewBox="0 0 880 374" role="img" aria-label="Bhabani Sankar Das (007bsd). Most credited OpenSSL vulnerability reporter of 2026, 10 CVEs. Papers: ePrint 2026/1682 and 2026/2239. ML-KEM test vectors merged into Wycheproof. Research covered by PostQuantum.com. Cited in the Amoeba break, China's next-generation cryptography competition. CVEs, papers and news: 007bsd.com">
   <defs><clipPath id="c"><rect width="880" height="374" rx="14"/></clipPath></defs>
   <g clip-path="url(#c)">
   <rect width="880" height="374" fill="#f0eee6"/>
@@ -8,7 +8,7 @@
   <text x="40" y="134" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#5e5d59">Cryptographic implementation attacks · post-quantum and OpenSSL</text>
   <line x1="40" y1="154" x2="840" y2="154" stroke="#dcd8cc" stroke-width="1"/>
   <rect x="42" y="175" width="7" height="7" rx="1.5" fill="#c8603d"/>
-  <text x="62" y="184" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#141413">Most credited <tspan fill="#c8603d">OpenSSL</tspan> vulnerability reporter of 2026</text>
+  <text x="62" y="184" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#141413">Most credited <tspan fill="#c8603d">OpenSSL</tspan> vulnerability reporter of 2026 · <tspan fill="#c8603d">10 CVEs</tspan></text>
   <rect x="42" y="207" width="7" height="7" rx="1.5" fill="#3b5587"/>
   <text x="62" y="216" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#141413">Papers: <tspan fill="#3b5587">ePrint 2026/1682</tspan> · <tspan fill="#3b5587">ePrint 2026/2239</tspan></text>
   <rect x="42" y="239" width="7" height="7" rx="1.5" fill="#3b5587"/>
