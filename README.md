@@ -1,7 +1,7 @@
 <a href="https://007bsd.com">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="card-dark.svg">
-  <img src="card-light.svg" alt="Bhabani Sankar Das (007bsd). Most credited OpenSSL vulnerability reporter of 2026. Papers: ePrint 2026/1682 and 2026/2239. Research covered by PostQuantum.com and cited by ngcc.dev. CVEs, papers and news: 007bsd.com" width="880">
+  <source media="(prefers-color-scheme: dark)" srcset="profile-dark.svg">
+  <img src="profile-light.svg" alt="Bhabani Sankar Das (007bsd). Most credited OpenSSL vulnerability reporter of 2026. Papers: ePrint 2026/1682 and 2026/2239. Research covered by PostQuantum.com and cited by ngcc.dev. CVEs, papers and news: 007bsd.com" width="880">
 </picture>
 </a>
 
