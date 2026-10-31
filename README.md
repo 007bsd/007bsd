@@ -1,0 +1,3 @@
+- Most credited OpenSSL vulnerability reporter of 2026
+- Papers: [ePrint 2026/1682](https://eprint.iacr.org/2026/1682) · [ePrint 2026/2239](https://eprint.iacr.org/2026/2239)
+- CVEs, papers and news: [007bsd.com](https://007bsd.com)
