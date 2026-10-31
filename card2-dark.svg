@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="342" viewBox="0 0 880 342" role="img" aria-label="Bhabani Sankar Das (007bsd). Most credited OpenSSL vulnerability reporter of 2026. Papers: ePrint 2026/1682 and 2026/2239. ML-KEM test vectors merged into Wycheproof. Research covered by PostQuantum.com and cited by ngcc.dev. CVEs, papers and news: 007bsd.com">
-  <defs><clipPath id="c"><rect width="880" height="342" rx="14"/></clipPath></defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="374" viewBox="0 0 880 374" role="img" aria-label="Bhabani Sankar Das (007bsd). Most credited OpenSSL vulnerability reporter of 2026. Papers: ePrint 2026/1682 and 2026/2239. ML-KEM test vectors merged into Wycheproof. Research covered by PostQuantum.com. Cited in the Amoeba break, China's next-generation cryptography competition. CVEs, papers and news: 007bsd.com">
+  <defs><clipPath id="c"><rect width="880" height="374" rx="14"/></clipPath></defs>
   <g clip-path="url(#c)">
-  <rect width="880" height="342" fill="#1a1915"/>
-  <rect width="5" height="342" fill="#e08a67"/>
+  <rect width="880" height="374" fill="#1a1915"/>
+  <rect width="5" height="374" fill="#e08a67"/>
   <text x="40" y="50" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="15" letter-spacing="3" fill="#e08a67">007BSD</text>
   <text x="40" y="100" font-family="'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="40" fill="#f0eee6">Bhabani Sankar Das</text>
   <text x="40" y="134" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#a8a69e">Cryptographic implementation attacks · post-quantum and OpenSSL</text>
@@ -14,8 +14,10 @@
   <rect x="42" y="239" width="7" height="7" rx="1.5" fill="#8aa5d6"/>
   <text x="62" y="248" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#f0eee6">ML-KEM test vectors merged into <tspan fill="#8aa5d6">Wycheproof</tspan></text>
   <rect x="42" y="271" width="7" height="7" rx="1.5" fill="#8aa5d6"/>
-  <text x="62" y="280" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#f0eee6">Research covered by <tspan fill="#8aa5d6">PostQuantum.com</tspan> and cited by <tspan fill="#8aa5d6">ngcc.dev</tspan></text>
-  <rect x="42" y="303" width="7" height="7" rx="1.5" fill="#e08a67"/>
-  <text x="62" y="312" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#f0eee6">CVEs, papers and news: <tspan fill="#e08a67">007bsd.com</tspan></text>
+  <text x="62" y="280" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#f0eee6">Research covered by <tspan fill="#8aa5d6">PostQuantum.com</tspan></text>
+  <rect x="42" y="303" width="7" height="7" rx="1.5" fill="#8aa5d6"/>
+  <text x="62" y="312" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#f0eee6">Cited in the <tspan fill="#8aa5d6">Amoeba</tspan> break, China’s next-generation cryptography competition</text>
+  <rect x="42" y="335" width="7" height="7" rx="1.5" fill="#e08a67"/>
+  <text x="62" y="344" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#f0eee6">CVEs, papers and news: <tspan fill="#e08a67">007bsd.com</tspan></text>
   </g>
 </svg>
