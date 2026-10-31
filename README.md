@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <img src="banner-light.svg" alt="Bhabani Sankar Das. I study the gap between the spec and the code." width="880">
+</picture>
+
 - Most credited OpenSSL vulnerability reporter of 2026
 - Papers: [ePrint 2026/1682](https://eprint.iacr.org/2026/1682) · [ePrint 2026/2239](https://eprint.iacr.org/2026/2239)
 - Research covered by [PostQuantum.com](https://007bsd.com/research/#coverage) and cited by [ngcc.dev](https://ngcc.dev/reports/kem-02.html)

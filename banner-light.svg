@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="170" viewBox="0 0 880 170" role="img" aria-label="Bhabani Sankar Das. I study the gap between the spec and the code.">
+  <defs><clipPath id="c"><rect width="880" height="170" rx="14"/></clipPath></defs>
+  <g clip-path="url(#c)">
+  <rect width="880" height="170" rx="14" fill="#f0eee6"/>
+  <rect x="0" y="0" width="5" height="170" fill="#c8603d"/>
+  <text x="40" y="52" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="15" letter-spacing="3" fill="#5e5d59">BHABANI SANKAR DAS · 007BSD</text>
+  <text x="40" y="108" font-family="'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="38" fill="#141413">I study the <tspan font-style="italic" fill="#c8603d">gap</tspan> between the spec and the code.</text>
+  <text x="40" y="146" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#5e5d59">Post-quantum implementation attacks · OpenSSL vulnerability research</text>
+  </g>
+</svg>
