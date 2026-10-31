@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <img src="banner-light.svg" alt="Bhabani Sankar Das (007bsd). Post-quantum implementation attacks and OpenSSL vulnerability research." width="880">
+  <source media="(prefers-color-scheme: dark)" srcset="name-dark.svg">
+  <img src="name-light.svg" alt="Bhabani Sankar Das (007bsd). Post-quantum implementation attacks and OpenSSL vulnerability research." width="880">
 </picture>
 
 - Most credited OpenSSL vulnerability reporter of 2026
