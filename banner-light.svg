@@ -1,19 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="232" viewBox="0 0 880 232" role="img" aria-label="Bhabani Sankar Das (007bsd). Most credited OpenSSL vulnerability reporter of 2026. Papers: ePrint 2026/1682 and 2026/2239. Research covered by PostQuantum.com and cited by ngcc.dev. 007bsd.com">
-  <defs><clipPath id="c"><rect width="880" height="232" rx="14"/></clipPath></defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="170" viewBox="0 0 880 170" role="img" aria-label="Bhabani Sankar Das (007bsd). Post-quantum implementation attacks and OpenSSL vulnerability research.">
+  <defs><clipPath id="c"><rect width="880" height="170" rx="14"/></clipPath></defs>
   <g clip-path="url(#c)">
-  <rect width="880" height="232" fill="#f0eee6"/>
-  <rect width="5" height="232" fill="#c8603d"/>
-  <text x="40" y="46" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="14" letter-spacing="3" fill="#5e5d59">BHABANI SANKAR DAS · 007BSD</text>
-  <text x="40" y="96" font-family="'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="31" fill="#141413">Most credited <tspan fill="#c8603d" font-style="italic">OpenSSL</tspan> vulnerability reporter of 2026</text>
-  <line x1="40" y1="122" x2="840" y2="122" stroke="#e0ddd3" stroke-width="1"/>
-  <text x="40" y="150" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#3b5587">PAPERS</text>
-  <text x="40" y="176" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#141413">ePrint 2026/1682 · 2026/2239</text>
-  <text x="360" y="150" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#3b5587">COVERED BY</text>
-  <text x="360" y="176" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#141413">PostQuantum.com</text>
-  <text x="560" y="150" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#3b5587">CITED BY</text>
-  <text x="560" y="176" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#141413">ngcc.dev</text>
-  <text x="720" y="150" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#c8603d">MORE</text>
-  <text x="720" y="176" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#141413">007bsd.com</text>
-  <text x="40" y="212" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#5e5d59">Post-quantum implementation attacks · vulnerability research in open-source cryptography</text>
+  <rect width="880" height="170" fill="#f0eee6"/>
+  <rect width="5" height="170" fill="#c8603d"/>
+  <text x="40" y="52" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="15" letter-spacing="3" fill="#c8603d">007BSD</text>
+  <text x="40" y="108" font-family="'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="40" fill="#141413">Bhabani Sankar Das</text>
+  <text x="40" y="146" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#5e5d59">Post-quantum implementation attacks · OpenSSL vulnerability research</text>
   </g>
 </svg>
