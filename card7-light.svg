@@ -8,7 +8,7 @@
   <text x="40" y="134" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#5e5d59">Cryptographic implementation attacks · post-quantum and OpenSSL</text>
   <line x1="40" y1="154" x2="840" y2="154" stroke="#dcd8cc" stroke-width="1"/>
   <rect x="42" y="175" width="7" height="7" rx="1.5" fill="#c8603d"/>
-  <text x="62" y="184" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#141413">Most credited <tspan fill="#c8603d">OpenSSL</tspan> vulnerability reporter of 2026 · <tspan fill="#c8603d">11 CVEs</tspan></text>
+  <text x="62" y="184" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#141413">Most credited <tspan fill="#c8603d" font-weight="700">OpenSSL</tspan> vulnerability reporter of 2026 · <tspan fill="#c8603d" font-weight="700">11 CVEs</tspan></text>
   <rect x="42" y="207" width="7" height="7" rx="1.5" fill="#3b5587"/>
   <text x="62" y="216" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#141413">Papers: <tspan fill="#3b5587">ePrint 2026/1682</tspan> · <tspan fill="#3b5587">ePrint 2026/2239</tspan></text>
   <rect x="42" y="239" width="7" height="7" rx="1.5" fill="#3b5587"/>

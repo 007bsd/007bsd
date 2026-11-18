@@ -1,7 +1,7 @@
 <a href="https://007bsd.com">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="card6-dark.svg">
-  <img src="card6-light.svg" alt="Bhabani Sankar Das (007bsd). Most credited OpenSSL vulnerability reporter of 2026, 11 CVEs. Papers: ePrint 2026/1682 and 2026/2239. Cited in the Amoeba break, China's next-generation cryptography competition. Research covered by PostQuantum.com and Quantum Observer. ML-KEM test vectors merged into Wycheproof. CVEs, papers and news: 007bsd.com" width="880">
+  <source media="(prefers-color-scheme: dark)" srcset="card7-dark.svg">
+  <img src="card7-light.svg" alt="Bhabani Sankar Das (007bsd). Most credited OpenSSL vulnerability reporter of 2026, 11 CVEs. Papers: ePrint 2026/1682 and 2026/2239. Cited in the Amoeba break, China's next-generation cryptography competition. Research covered by PostQuantum.com and Quantum Observer. ML-KEM test vectors merged into Wycheproof. CVEs, papers and news: 007bsd.com" width="880">
 </picture>
 </a>
 
